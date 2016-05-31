@@ -1,3 +1,3 @@
 Hi there! 
-This is my first attempt at writing "readable" code. 
-Enjoy.
+This is a basic salon management system that tries as much as possible to individualise operations. 
+Cheers.
